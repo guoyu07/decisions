@@ -1,0 +1,13 @@
+{
+  "name": "johnpbloch/decisions",
+  "type": "wordpress-muplugin",
+  "description": "Not Options",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "John P Bloch",
+      "email": "me@johnpbloch.com"
+    }
+  ]
+}
