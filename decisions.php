@@ -12,6 +12,6 @@ if ( ! class_exists( 'Closure' ) ) {
 
 	return;
 } else {
-	require_once dirname( __FILE__ ) . '/src/load.php';
+	require_once dirname( __FILE__ ) . '/src/decisions.php';
 	JPB\Decisions\setup();
 }
