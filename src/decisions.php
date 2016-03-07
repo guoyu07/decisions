@@ -47,7 +47,7 @@ function filter_network_option( $value, $name ) {
  */
 function default_constants() {
 	if ( ! defined( 'JPB\Decisions\DECISIONS' ) ) {
-		define( 'JPB\Decisions\DECISIONS', \ABSPATH . 'decisions.json' );
+		define( 'JPB\Decisions\DECISIONS', \ABSPATH . '.decisions.json' );
 	}
 }
 
