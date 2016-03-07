@@ -2,6 +2,7 @@
 /*
 Plugin Name: Decisions
 Description: Not Options
+Version: 1.0.0
 Author: John P Bloch
 Author URI: https://johnpbloch.com
 License: MIT
