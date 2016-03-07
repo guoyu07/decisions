@@ -10,7 +10,7 @@ This plugin tries to make it easier to make decisions instead of allow options i
 
 ## Usage
 
-You REALLY should use this as a must-use plugin, but that would require some know-how and extra setup. If you don't know how MU plugins work or how to get this set up as one, maybe you don't really need this plugin? Or you might want to better understand why you need it? ¯\_(ツ)_/¯
+You REALLY should use this as a must-use plugin, but that would require some know-how and extra setup. If you don't know how MU plugins work or how to get this set up as one, maybe you don't really need this plugin? Or you might want to better understand why you need it?
 
 By default, this will look for a configuration file in `ABSPATH . '.decisions.json'`. You can change this location in your config file thusly:
 
@@ -64,7 +64,7 @@ PHP has core JSON decoding. Ain't nobody got time for userland libraries.
 
 #### What about options fetched before this plugin runs?
 
-¯\_(ツ)_/¯ I can't really help you there. That falls well outside the 80/20 rule. Maybe set the DB value directly and then short-circuit any attempt to update that key?
+I can't really help you there. That falls well outside the 80/20 rule. Maybe set the DB value directly and then short-circuit any attempt to update that key?
 
 #### Do you?
 
