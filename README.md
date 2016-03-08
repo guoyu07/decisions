@@ -1,6 +1,6 @@
 # Decisions
 
-This plugin tries to make it easier to make decisions instead of allow options in your WordPress site. Define some immutable options in a configuration file and they'll ***always*** be that way
+Define values in a JSON file and they will override corresponding option values from the database. ALWAYS.
 
 ## Requirements
 
